@@ -31,7 +31,7 @@ on:
         default: 'true'
 
 env:
-  REPO_URL: https://github.com/kevinCSDN/openwrt-ipq60xx.git
+  REPO_URL: https://github.com/King-Of-Knights/openwrt-6.x
   REPO_BRANCH: main
   FEEDS_CONF: feeds.conf.default
   PATCHES_FILE_1: patches/0001-show-soc-status-on-luci.patch
